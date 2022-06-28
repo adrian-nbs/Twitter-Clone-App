@@ -2,6 +2,8 @@
 
 Twitter clone app built with Flutter and Cloud Storage Firebase and the FlutterFire package.
 
+apk: https://www.mediafire.com/file/bh2zqgxm0xv7i31/TwitterClone.apk/file
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
