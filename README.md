@@ -1,4 +1,4 @@
-# twitter clone app
+# Twitter Clone App
 
 Twitter clone app built with Flutter and Cloud Storage Firebase and the FlutterFire package.
 
