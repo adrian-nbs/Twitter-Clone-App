@@ -1,6 +1,6 @@
-# flutterfire
+# twitter clone app
 
-FlutterFire testing app.
+Twitter clone app built with Flutter and Cloud Storage Firebase and the FlutterFire package.
 
 ## Getting Started
 
